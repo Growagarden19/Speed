@@ -1,1 +1,2 @@
-player:Kick("Wag ngayon, bukas ka na mag-execute.")
+-- DELTA EXECUTOR KICK SCRIPT
+game:GetService("Players").LocalPlayer:Kick("bukas mo na execute boi 😹")
